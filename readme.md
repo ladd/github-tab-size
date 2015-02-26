@@ -9,7 +9,7 @@ A simple fork of https://github.com/sindresorhus/github-tab-size
 
 ## Install
 
-Chrome extension: https://chrome.google.com/webstore/detail/github-tab-size/knhdkkipmfccjokjigcnfigaakbijjah
+Chrome extension: https://chrome.google.com/webstore/detail/github-tab-size-ebay-corp/knhdkkipmfccjokjigcnfigaakbijjah?hl=en-US
 
 ## License
 
