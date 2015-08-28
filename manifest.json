@@ -1,6 +1,6 @@
 {
 	"name": "GitHub Tab Size - eBay Corp",
-	"version": "1.0.1",
+	"version": "1.1.1",
 	"description": "Make tab indented code more readable by forcing the tab size to 4 instead of 8",
 	"homepage_url": "https://github.com/ladd/github-tab-size",
 	"manifest_version": 2,
@@ -10,14 +10,12 @@
 	},
 	"permissions": [
 		"https://github.corp.ebay.com/*/*"
-		"https://gist.github.com/*/*"
 	],
 	"content_scripts": [
 		{
 			"run_at": "document_end",
 			"matches": [
 				"https://github.corp.ebay.com/*/*"
-				"https://gist.github.com/*/*"
 			],
 			"css": [
 				"content.css"
