@@ -10,12 +10,14 @@
 	},
 	"permissions": [
 		"https://github.corp.ebay.com/*/*"
+		"https://gist.github.com/*/*"
 	],
 	"content_scripts": [
 		{
 			"run_at": "document_end",
 			"matches": [
 				"https://github.corp.ebay.com/*/*"
+				"https://gist.github.com/*/*"
 			],
 			"css": [
 				"content.css"
